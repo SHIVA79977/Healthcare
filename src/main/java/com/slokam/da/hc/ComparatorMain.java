@@ -6,7 +6,7 @@ import com.slokam.da.hc.entity.Patient;
 public class ComparatorMain {
 	public static void main(String[] args) {
 		
-		
+	//shiva add
 		ComparatorTest comp1 = new ComparatorTest();
 		Patient p1 = new Patient();
 		Patient p2 = new Patient();
