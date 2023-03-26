@@ -8,6 +8,6 @@ import com.slokam.da.hc.entity.Appointment;
 @Repository
 public interface AppointmentDAO extends JpaRepository<Appointment, Integer>{
   
-	 
+//shu	 
 	 
 }
